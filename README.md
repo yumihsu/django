@@ -1,6 +1,6 @@
 # django
 
-'''
+'''javascript
 def check(df):
   for i in set(df.chid):
     if set(df['chid'][df['chid']==i].tolist())!=12:
