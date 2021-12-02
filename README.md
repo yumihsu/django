@@ -1,8 +1,6 @@
 # django
 
-'''javascript
-function test(){
-
+```
 
 def check(df):
   for i in set(df.chid):
@@ -14,6 +12,4 @@ def check(df):
 
 test = check(df)
 
-}
-
-'''
+```
